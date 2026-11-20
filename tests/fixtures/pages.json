@@ -1,0 +1,223 @@
+{
+  "_comment": "Synthetic snapshots in the shape the in-page extractors emit. Written by hand so no student, teacher or course data from a real account lives in the repo: same field names and value shapes as a live Classroom page, invented content. Tests assert against these values.",
+  "courses": [
+    {
+      "name": "English 9",
+      "section": "",
+      "teacher": "Ellison, Dana",
+      "href": "/c/MTExMTExMTExMTEx",
+      "course_id": "111111111111",
+      "next": "Due Saturday · Unit 3 Summative"
+    },
+    {
+      "name": "Geometry Honors",
+      "section": "3rd Hour",
+      "teacher": "Rivera, Alex",
+      "href": "/c/MjIyMjIyMjIyMjIy",
+      "course_id": "222222222222",
+      "next": "Due Tuesday · 4.3 SSS & SAS"
+    },
+    {
+      "name": "Environmental Science - 7",
+      "section": "7th Hour",
+      "teacher": "Okafor, Sam",
+      "href": "/c/MzMzMzMzMzMzMzMz",
+      "course_id": "333333333333",
+      "next": "Due Friday · Biome Poster Project"
+    },
+    {
+      "name": "World History",
+      "section": "2nd Hour",
+      "teacher": "Lindqvist, Robin",
+      "href": "/c/NDQ0NDQ0NDQ0NDQ0",
+      "course_id": "444444444444",
+      "next": ""
+    },
+    {
+      "name": "Foundations of Fitness",
+      "section": "5th Hour",
+      "teacher": "Bauer, Casey",
+      "href": "/c/NTU1NTU1NTU1NTU1",
+      "course_id": "555555555555",
+      "next": ""
+    },
+    {
+      "name": "Concert Band",
+      "section": "1st Hour",
+      "teacher": "Moreau, Jean",
+      "href": "/c/NjY2NjY2NjY2NjY2",
+      "course_id": "666666666666",
+      "next": ""
+    },
+    {
+      "name": "Physical Science",
+      "section": "4th Hour",
+      "teacher": "Adeyemi, Tolu",
+      "href": "/c/Nzc3Nzc3Nzc3Nzc3",
+      "course_id": "777777777777",
+      "next": "Due Monday · Density Worksheet"
+    }
+  ],
+  "todo": [
+    {
+      "href": "/c/MTExMTExMTExMTEx/a/ODc0MDYyNzg2MzM2/details",
+      "icon": "assignment",
+      "title": "Unit 3 Summative",
+      "course": "English 9",
+      "due_text": "Posted Monday, Oct 19",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/MzMzMzMzMzMzMzMz/a/ODkwOTYxNTIyMjE2/details",
+      "icon": "assignment",
+      "title": "Biome Poster Project",
+      "course": "Environmental Science - 7",
+      "due_text": "Posted Tuesday, Nov 17",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/Nzc3Nzc3Nzc3Nzc3/a/OTk5OTk5OTk5OTk5/details",
+      "icon": "assignment",
+      "title": "Density Worksheet Review",
+      "course": "Physical Science",
+      "due_text": "Posted Wednesday, Nov 18",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    }
+  ],
+  "missing": [
+    {
+      "href": "/c/MTExMTExMTExMTEx/a/ODk5MzE5NTYzMDQ4/details",
+      "icon": "assignment",
+      "title": "Persuasive Essay Draft",
+      "course": "English 9",
+      "due_text": "Yesterday, 5:59 AM Yesterday 5:59 AM",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/MzMzMzMzMzMzMzMz/a/ODg4ODg4ODg4ODg4/details",
+      "icon": "assignment",
+      "title": "Edpuzzle: Rock Cycle",
+      "course": "Environmental Science - 7",
+      "due_text": "Friday, Nov 13",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/MjIyMjIyMjIyMjIy/a/ODc3Nzc3Nzc3Nzc3/details",
+      "icon": "assignment",
+      "title": "4.3 Proof Packet",
+      "course": "Geometry Honors",
+      "due_text": "Yesterday, 5:59 AM",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/NDQ0NDQ0NDQ0NDQ0/a/ODY2NjY2NjY2NjY2/details",
+      "icon": "assignment",
+      "title": "Chapter 5 Reading Notes",
+      "course": "World History",
+      "due_text": "Friday, Nov 13",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/Nzc3Nzc3Nzc3Nzc3/a/ODU1NTU1NTU1NTU1/details",
+      "icon": "assignment",
+      "title": "Density Lab Data Table",
+      "course": "Physical Science",
+      "due_text": "Friday, Nov 13",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/MjIyMjIyMjIyMjIy/a/ODQ0NDQ0NDQ0NDQ0/details",
+      "icon": "assignment",
+      "title": "Warm-up Log",
+      "course": "Geometry Honors",
+      "due_text": "Monday, Nov 9",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/MTExMTExMTExMTEx/a/ODMzMzMzMzMzMzMz/details",
+      "icon": "assignment",
+      "title": "Vocabulary Set 4",
+      "course": "English 9",
+      "due_text": "Monday, Nov 9",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/NDQ0NDQ0NDQ0NDQ0/a/ODIyMjIyMjIyMjIy/details",
+      "icon": "assignment",
+      "title": "Map Skills Worksheet",
+      "course": "World History",
+      "due_text": "Thursday, Nov 5",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/MzMzMzMzMzMzMzMz/a/ODExMTExMTExMTEx/details",
+      "icon": "question",
+      "title": "Minerals Quiz",
+      "course": "Environmental Science - 7",
+      "due_text": "Thursday, Nov 5",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    },
+    {
+      "href": "/c/NTU1NTU1NTU1NTU1/a/ODAwMDAwMDAwMDAw/details",
+      "icon": "assignment",
+      "title": "Fitness Log",
+      "course": "Foundations of Fitness",
+      "due_text": "Friday, Oct 30",
+      "points": "",
+      "grade": "",
+      "turned_in": ""
+    }
+  ],
+  "done": [],
+  "detail": {
+    "title": "Biome Poster Project",
+    "points": "20",
+    "due_text": "Due Nov 21",
+    "states": [
+      "Assigned"
+    ],
+    "attachments": [
+      "Biome Poster Project\nGoogle Docs"
+    ],
+    "links": [
+      "https://drive.google.com/file/d/SAMPLEfileid0000000000000000000/view"
+    ],
+    "text": [
+      "Skip to main content",
+      "Main Menu",
+      "Classroom",
+      "Environmental Science - 7",
+      "Period 7",
+      "Biome Poster Project",
+      "Assigned",
+      "Due Nov 21",
+      "Pick one terrestrial biome and build a poster covering climate, species adaptations, and one human impact.",
+      "Biome Poster Project\nGoogle Docs",
+      "20 points"
+    ]
+  }
+}
